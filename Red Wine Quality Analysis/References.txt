@@ -1,0 +1,5 @@
+http://ggplot2.tidyverse.org/reference/scale_brewer.html
+http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually
+https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
+http://ggplot2.tidyverse.org/reference/
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt

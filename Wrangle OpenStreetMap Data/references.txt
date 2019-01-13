@@ -1,0 +1,12 @@
+https://www.regular-expressions.info/
+https://regex101.com/
+https://wiki.openstreetmap.org/wiki/Main_Page
+https://www.w3schools.com/xml/
+https://www.tutorialspoint.com/sql/
+https://www.json.org/
+https://docs.python.org/3/library/csv.html
+https://en.wikipedia.org/wiki/Data_cleansing
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+
+and finally Udacity.
+

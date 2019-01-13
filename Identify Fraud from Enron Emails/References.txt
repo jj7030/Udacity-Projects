@@ -1,0 +1,7 @@
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://en.wikipedia.org/wiki/Precision_and_recall
+https://en.wikipedia.org/wiki/Feature_scaling
+https://datascience.stackexchange.com/questions/10773/how-does-selectkbest-work
+https://www.tutorialspoint.com/python/list_extend.htm
+http://scikit-learn.org/stable/modules/cross_validation.html
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
